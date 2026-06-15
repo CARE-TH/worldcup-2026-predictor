@@ -1,0 +1,49 @@
+team,odds_low,odds_high,implied_prob_pct
+Spain,5.5,6.0,17.4
+France,5.7,6.0,17.1
+England,7.5,8.0,12.9
+Brazil,9.0,10.0,10.5
+Portugal,9.0,11.0,10.0
+Argentina,10.0,11.0,9.5
+Germany,14.0,15.0,6.9
+Netherlands,17.0,23.0,5.0
+Belgium,23.0,41.0,3.1
+Norway,34.0,36.0,2.9
+Colombia,36.0,41.0,2.6
+United States,51.0,61.0,1.8
+Morocco,51.0,67.0,1.7
+Uruguay,51.0,67.0,1.7
+Japan,41.0,66.0,1.9
+Croatia,66.0,91.0,1.3
+Senegal,67.0,81.0,1.4
+Ecuador,67.0,101.0,1.2
+Switzerland,81.0,126.0,1.0
+Turkiye,81.0,126.0,1.0
+Austria,101.0,151.0,0.8
+Cote d'Ivoire,101.0,151.0,0.8
+Sweden,101.0,151.0,0.8
+Mexico,61.0,91.0,1.3
+South Korea,126.0,201.0,0.6
+Australia,151.0,251.0,0.5
+Canada,176.0,201.0,0.5
+Egypt,201.0,301.0,0.4
+Algeria,151.0,251.0,0.5
+Ghana,201.0,301.0,0.4
+Czechia,201.0,301.0,0.4
+Scotland,301.0,501.0,0.2
+Paraguay,201.0,301.0,0.4
+IR Iran,301.0,501.0,0.2
+Tunisia,301.0,501.0,0.2
+Saudi Arabia,501.0,751.0,0.2
+Bosnia & Herzegovina,251.0,501.0,0.3
+South Africa,501.0,751.0,0.2
+Panama,501.0,751.0,0.2
+Congo DR,501.0,751.0,0.2
+Uzbekistan,501.0,751.0,0.2
+Haiti,751.0,1001.0,0.1
+Cabo Verde,751.0,1001.0,0.1
+Qatar,751.0,1001.0,0.1
+Iraq,751.0,1001.0,0.1
+New Zealand,1001.0,1501.0,0.1
+Jordan,1001.0,1501.0,0.1
+Curacao,1001.0,1501.0,0.1

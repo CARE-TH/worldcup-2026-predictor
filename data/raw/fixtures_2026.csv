@@ -1,0 +1,73 @@
+group,match_id,date,home_team,away_team,venue,stage
+A,1,2026-06-11,Mexico,South Africa,Mexico City,group
+A,2,2026-06-11,South Korea,Czechia,Guadalajara,group
+A,3,2026-06-18,South Africa,Mexico,Atlanta,group
+A,4,2026-06-18,Czechia,South Korea,Los Angeles,group
+A,5,2026-06-24,South Korea,South Africa,Mexico City,group
+A,6,2026-06-24,Czechia,Mexico,Monterrey,group
+B,7,2026-06-12,Canada,Qatar,Toronto,group
+B,8,2026-06-12,Bosnia & Herzegovina,Switzerland,San Francisco,group
+B,9,2026-06-18,Qatar,Canada,Los Angeles,group
+B,10,2026-06-18,Switzerland,Bosnia & Herzegovina,Vancouver,group
+B,11,2026-06-24,Bosnia & Herzegovina,Qatar,Vancouver,group
+B,12,2026-06-24,Switzerland,Canada,Seattle,group
+C,13,2026-06-13,Brazil,Haiti,New York,group
+C,14,2026-06-13,Morocco,Scotland,Boston,group
+C,15,2026-06-19,Haiti,Brazil,Boston,group
+C,16,2026-06-19,Scotland,Morocco,Philadelphia,group
+C,17,2026-06-24,Morocco,Haiti,Miami,group
+C,18,2026-06-24,Scotland,Brazil,Atlanta,group
+D,19,2026-06-12,United States,Australia,Los Angeles,group
+D,20,2026-06-12,Paraguay,Turkiye,Vancouver,group
+D,21,2026-06-19,Australia,United States,Seattle,group
+D,22,2026-06-19,Turkiye,Paraguay,San Francisco,group
+D,23,2026-06-25,Paraguay,Australia,Los Angeles,group
+D,24,2026-06-25,Turkiye,United States,San Francisco,group
+E,25,2026-06-14,Germany,Ecuador,Houston,group
+E,26,2026-06-14,Cote d'Ivoire,Curacao,Philadelphia,group
+E,27,2026-06-20,Ecuador,Germany,Toronto,group
+E,28,2026-06-20,Curacao,Cote d'Ivoire,Kansas City,group
+E,29,2026-06-25,Cote d'Ivoire,Ecuador,Philadelphia,group
+E,30,2026-06-25,Curacao,Germany,New York,group
+F,31,2026-06-14,Netherlands,Sweden,Dallas,group
+F,32,2026-06-14,Japan,Tunisia,Monterrey,group
+F,33,2026-06-20,Sweden,Netherlands,Houston,group
+F,34,2026-06-20,Tunisia,Japan,Monterrey,group
+F,35,2026-06-25,Japan,Sweden,Dallas,group
+F,36,2026-06-25,Tunisia,Netherlands,Kansas City,group
+G,37,2026-06-15,Belgium,IR Iran,Seattle,group
+G,38,2026-06-15,Egypt,New Zealand,Los Angeles,group
+G,39,2026-06-21,IR Iran,Belgium,Los Angeles,group
+G,40,2026-06-21,New Zealand,Egypt,Vancouver,group
+G,41,2026-06-26,Egypt,IR Iran,Seattle,group
+G,42,2026-06-26,New Zealand,Belgium,Vancouver,group
+H,43,2026-06-15,Spain,Saudi Arabia,Atlanta,group
+H,44,2026-06-15,Uruguay,Cabo Verde,Miami,group
+H,45,2026-06-21,Saudi Arabia,Spain,Atlanta,group
+H,46,2026-06-21,Cabo Verde,Uruguay,Miami,group
+H,47,2026-06-26,Uruguay,Saudi Arabia,Houston,group
+H,48,2026-06-26,Cabo Verde,Spain,Guadalajara,group
+I,49,2026-06-16,France,Norway,New York,group
+I,50,2026-06-16,Senegal,Iraq,Boston,group
+I,51,2026-06-22,Norway,France,Philadelphia,group
+I,52,2026-06-22,Iraq,Senegal,New York,group
+I,53,2026-06-26,Senegal,Norway,Boston,group
+I,54,2026-06-26,Iraq,France,Toronto,group
+J,55,2026-06-16,Argentina,Austria,Kansas City,group
+J,56,2026-06-16,Algeria,Jordan,San Francisco,group
+J,57,2026-06-22,Austria,Argentina,Dallas,group
+J,58,2026-06-22,Jordan,Algeria,San Francisco,group
+J,59,2026-06-27,Algeria,Austria,Kansas City,group
+J,60,2026-06-27,Jordan,Argentina,Dallas,group
+K,61,2026-06-17,Portugal,Uzbekistan,Houston,group
+K,62,2026-06-17,Colombia,Congo DR,Mexico City,group
+K,63,2026-06-23,Uzbekistan,Portugal,Houston,group
+K,64,2026-06-23,Congo DR,Colombia,Guadalajara,group
+K,65,2026-06-27,Colombia,Uzbekistan,Miami,group
+K,66,2026-06-27,Congo DR,Portugal,Atlanta,group
+L,67,2026-06-17,England,Ghana,Dallas,group
+L,68,2026-06-17,Croatia,Panama,Toronto,group
+L,69,2026-06-23,Ghana,England,Boston,group
+L,70,2026-06-23,Panama,Croatia,Toronto,group
+L,71,2026-06-27,Croatia,Ghana,New York,group
+L,72,2026-06-27,Panama,England,Philadelphia,group

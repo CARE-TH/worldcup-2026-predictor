@@ -1,0 +1,49 @@
+team,fifa_rank,squad_value_billion,avg_age,world_cup_appearances,best_result,coach,star_player,playing_style
+Argentina,1,0.94,28.5,19,Champion (5x),Lionel Scaloni,Enzo Fernandez,Possession
+Spain,2,1.449,26.7,17,Champion (2010),Luis de la Fuente,Lamine Yamal,Possession
+France,3,1.76,27.1,17,Champion (2x),Didier Deschamps,Kylian Mbappe,Counter
+England,4,1.507,26.9,17,Champion (1966),Thomas Tuchel,Jude Bellingham,Hybrid
+Portugal,5,1.173,27.8,9,Third (1966),Roberto Martinez,Vitinha,Possession
+Brazil,6,1.049,27.3,23,Champion (5x),Carlo Ancelotti,Vinicius Jr.,Attacking
+Morocco,7,0.561,27.5,7,Fourth (2022),Walid Regragui,Achraf Hakimi,Counter
+Netherlands,8,0.963,26.5,12,Runner-up (3x),Ronald Koeman,Ryan Gravenberch,Possession
+Belgium,9,0.624,28.4,15,Third (2018),Domenico Tedesco,Jeremy Doku,Attacking
+Germany,10,1.148,27.0,21,Champion (4x),Julian Nagelsmann,Jamal Musiala,Possession
+Croatia,11,0.448,28.8,7,Runner-up (2018),Zlatko Dalic,Josko Gvardiol,Hybrid
+Colombia,13,0.35,27.6,7,Quarter-final (2014),Nestor Lorenzo,Luis Diaz,Attacking
+Mexico,14,0.221,28.2,18,Quarter-final (2x),Javier Aguirre,Santiago Gimenez,Counter
+Senegal,15,0.544,26.3,4,Quarter-final (2002),Pape Thiaw,Sadio Mane,Physical
+Uruguay,16,0.466,28.4,15,Champion (2x),Marcelo Bielsa,Federico Valverde,Hybrid
+United States,17,0.439,26.1,12,Third (1930),Mauricio Pochettino,Christian Pulisic,Counter
+Japan,18,0.321,27.3,8,R16 (4x),Hajime Moriyasu,Takefusa Kubo,Possession
+Switzerland,19,0.382,27.7,13,Quarter-final (3x),Murat Yakin,Granit Xhaka,Defensive
+IR Iran,20,0.037,28.1,7,Group stage,Amir Ghalenoei,Mehdi Taremi,Defensive
+Turkiye,22,0.544,26.4,3,Third (2002),Vincenzo Montella,Arda Guler,Attacking
+Ecuador,23,0.433,26.2,5,R16 (2006),Sebastian Beccacece,Moises Caicedo,Hybrid
+Austria,24,0.279,27.0,8,Third (1954),Ralf Rangnick,David Alaba,Pressing
+South Korea,25,0.16,27.8,12,Fourth (2002),Hong Myung-bo,Son Heung-min,Counter
+Australia,27,0.089,27.5,7,R16 (2x),Tony Popovic,Nestory Irankunda,Physical
+Algeria,28,0.295,26.8,5,R16 (2014),Vladimir Petkovic,Riyad Mahrez,Counter
+Egypt,29,0.134,27.4,4,Group stage,Hossam Hassan,Mohamed Salah,Counter
+Canada,30,0.226,26.5,3,Group stage,Jesse Marsch,Alphonso Davies,Pressing
+Norway,31,0.691,25.9,4,R16 (2x),Stale Solbakken,Erling Haaland,Attacking
+Cote d'Ivoire,33,0.611,25.8,4,Group stage,Emerse Fae,Simon Adingra,Attacking
+Panama,34,0.04,30.4,2,Group stage,Thomas Christiansen,Michael Murillo,Defensive
+Sweden,38,0.492,27.3,13,Runner-up (1958),Jon Dahl Tomasson,Alexander Isak,Hybrid
+Czechia,40,0.216,27.5,10,Runner-up (2x),Ivan Hasek,Patrik Schick,Counter
+Paraguay,41,0.177,28.0,9,Quarter-final (2010),Gustavo Alfaro,Miguel Almiron,Defensive
+Scotland,42,0.196,27.2,9,Group stage,Steve Clarke,Andy Robertson,Physical
+Tunisia,45,0.08,27.6,7,Group stage,Jalel Kadri,Hannibal Mejbri,Defensive
+Congo DR,46,0.165,26.9,1,Group stage (1974),Sebastien Desabre,Noah Sadiki,Physical
+Uzbekistan,50,0.098,26.3,1,Debut,Srecko Katanec,Eldor Shomurodov,Defensive
+Bosnia & Herzegovina,52,0.174,27.8,1,Group stage (2014),Sergej Barbarez,Edin Dzeko,Physical
+Ghana,55,0.27,26.5,5,Quarter-final (2010),Otto Addo,Mohammed Kudus,Physical
+South Africa,59,0.057,27.0,4,Group stage,Hugo Broos,Percy Tau,Counter
+Haiti,62,0.064,28.2,1,Group stage (1974),Sebastien Migne,Frantzdy Pierrot,Physical
+Cabo Verde,65,0.063,26.8,1,Debut,Bubista,Ryan Mendes,Counter
+Saudi Arabia,67,0.047,27.5,7,R16 (1994),Roberto Mancini,Salem Al-Dawsari,Defensive
+Qatar,72,0.023,27.3,2,Group stage (2022),Tintin Marquez,Akram Afif,Possession
+Iraq,75,0.024,26.5,2,Group stage (1986),Jesus Casas,Ali Al-Hamadi,Counter
+New Zealand,85,0.04,27.1,3,Group stage,Darren Bazeley,Chris Wood,Physical
+Jordan,88,0.024,26.7,1,Debut,Hussein Ammouta,Mousa Al-Tamari,Defensive
+Curacao,91,0.03,27.3,1,Debut,Dean Gorre,Rangelo Janga,Counter
